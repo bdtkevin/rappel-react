@@ -8,4 +8,4 @@ INSTRUCTIONS
 
 ## First.jsx / Second.jsx / Third.jsx -> props
 
-## ALL COMPONENTS -> styled-component
+## ALL COMPONENTS -> styled-components
