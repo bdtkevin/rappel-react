@@ -52,7 +52,7 @@ export default function Home() {
           getFact();
         }}
       >
-        Actualiser
+        New Fact
       </SButton>
       {/* Si isLoading est true, affiche "loading..." */}
       {isLoading && <p>loading...</p>}
