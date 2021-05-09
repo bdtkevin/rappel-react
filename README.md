@@ -2,7 +2,7 @@ INSTRUCTIONS
 
 **Before start the application -> npm install**
 
-## App.jsx && Header.jsx -> react-router-dom
+## index.js, App.jsx and Header.jsx -> react-router-dom
 
 ## Home.jsx -> axios / useState / useEffect
 

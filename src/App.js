@@ -43,7 +43,7 @@ function App() {
       </div>
 
       {/* Déclaration du Switch, le Switch va définir quel composant afficher à l'écran en fonction
-      du chemin entré dans l'url */}
+      du chemin entré dans l'url (BrowserRouter part is in "index.js") */}
       <Switch>
         {/* Affiche le composant <Home /> si l'url dans le navigateur est exactement : "/" */}
         <Route exact path='/' component={Home} />
