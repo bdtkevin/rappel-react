@@ -39,8 +39,7 @@ export default function Home() {
   // tableau de dependance du useEffect change, ici le tableau est vide, donc le code du useEffect est éxécuté
   // une seule fois à l'appel du composant
   useEffect(() => {
-    // Appel la fonction "getFact", chargé de faire un appel axios pour récupéré une chuck norris fact à la
-    // création du composant
+    // Appel la fonction "getFact" à la création du composant, chargé de faire un appel axios pour récupéré une chuck norris fact
     getFact();
   }, []);
 
