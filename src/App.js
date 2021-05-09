@@ -48,10 +48,10 @@ function App() {
         {/* Affiche le composant <Home /> si l'url dans le navigateur est exactement : "/" */}
         <Route exact path='/' component={Home} />
 
-        {/* Affiche le composant <First /> si l'url dans le navigateur commence par : "/First" */}
+        {/* Affiche le composant <First /> si l'url dans le navigateur commence par : "/first" */}
         <Route path='/first' component={First} />
 
-        {/* Affiche le composant <Second /> si l'url dans le navigateur commence par : "/Second" */}
+        {/* Affiche le composant <Second /> si l'url dans le navigateur commence par : "/second" */}
         <Route path='/second' component={Second} />
 
         {/* Affiche le composant <Third /> si l'url dans le navigateur commence par : "/toto-le-rigolo" */}
