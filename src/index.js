@@ -5,7 +5,6 @@ import App from './App';
 
 ReactDOM.render(
   <React.StrictMode>
-    {/*BrowserRouter : englobe tout ce qui sera prit en compte par react-router-dom, ici tout donc app.jsx*/}
     <BrowserRouter>
       <App />
     </BrowserRouter>

@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 
-// Création dun style pour une balise <header></header>
 const SHeader = styled.header`
   position: fixed;
   top: 0;
