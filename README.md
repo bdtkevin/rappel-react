@@ -4,7 +4,7 @@ INSTRUCTIONS
 
 ## App.jsx && Header.jsx -> react-router-dom
 
-## Home.jsx -> axios
+## Home.jsx -> axios / useState / useEffect
 
 ## First.jsx / Second.jsx / Third.jsx -> props
 
